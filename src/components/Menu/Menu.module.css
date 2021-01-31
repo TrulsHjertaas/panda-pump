@@ -1,0 +1,15 @@
+.container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  height: 6em;
+  align-items: center;
+  padding: 0 8em;
+}
+
+.container nav {
+  padding-top: 1em;
+}

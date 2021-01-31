@@ -1,0 +1,12 @@
+.button {
+  outline: none;
+  border: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  cursor: pointer;
+  background: transparent;
+}
+
+.button svg {
+}

@@ -1,0 +1,9 @@
+.ImageBackground {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(49, 49, 49);
+  background-image: url('../../public/assets/strength.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: screen;
+}
