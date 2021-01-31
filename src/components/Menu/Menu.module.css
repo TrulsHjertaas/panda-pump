@@ -13,3 +13,9 @@
 .container nav {
   padding-top: 1em;
 }
+
+@media (max-width: 800px) {
+  .container {
+    padding: 1em;
+  }
+}

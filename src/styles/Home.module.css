@@ -7,3 +7,14 @@
   background-size: cover;
   background-blend-mode: screen;
 }
+
+@media (max-width: 800px) {
+  .ImageBackground {
+    background: url('../../public/assets/strength.jpg') no-repeat center center fixed; 
+    background-color: rgb(49, 49, 49);
+    background-blend-mode: screen;
+    background-size: 300% 100%;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+  }
+}
